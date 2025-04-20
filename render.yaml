@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: quotex-bot
+    env: python
+    buildCommand: ""
+    startCommand: ./start.sh
+    plan: free
