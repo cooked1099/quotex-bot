@@ -3,7 +3,5 @@
   "version": "1.0.0",
   "description": "Netlify functions for Trading Chart Analyzer",
   "main": "api.js",
-  "dependencies": {
-    "openai": "^4.20.0"
-  }
+  "dependencies": {}
 }
